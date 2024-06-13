@@ -5,3 +5,5 @@ PLEASE NOTE:
 Be sure to choose a compatible sample-rate.
 Default android sample-rate is 44100 Hz.
 If sweep is skipping samples the solution is often to just do another measurement - most likely an internal memory issue.
+
+Developed as a part of a DTU Bachelor Thesis
